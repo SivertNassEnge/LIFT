@@ -1,6 +1,6 @@
 # Lift – a simple workout tracker
 
-Lift is a workout tracker that runs in the browser. It is inspired by gym apps like Hevy, but it is my own design and code. It was built for Mandatory Assignment 3 (Vibe Coding) in DAVE3625 at OsloMet.
+Lift is a workout tracker that runs in the browser. It is inspired by gym apps, but it is my own design and code. It was built for Mandatory Assignment 3 (Vibe Coding) in DAVE3625 at OsloMet.
 
 ## Features
 
